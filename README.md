@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielGabler
+- 👋 Hi, I’m @Daniel
 - 👀 I’m interested in .todo
 - 🌱 I’m currently learning Figma UX/UI, Kotlin, -> Swift 
 - 💞️ I’m looking to collaborate on .visual.ideas
