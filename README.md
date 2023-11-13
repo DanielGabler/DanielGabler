@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel
 - 👀 I’m interested in .todo
-- 🌱 I’m currently learning Figma, UX/UI, Kotlin, InteelliJ, XCode -> Swift 
+- 🌱 I’m currently learning Figma, UX/UI, Kotlin, IntelliJ, XCode -> Swift 
 - 💞️ I’m looking to collaborate on .visual.ideas
 - 📫 you.know = if.you.know()
 
