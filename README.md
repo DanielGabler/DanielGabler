@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Daniel
-- 👀 I’m interested in .todo
+- 👀 I’m interested in to.do
 - 🌱 I’m currently learning Figma, UX/UI, Kotlin, IntelliJ, XCode -> Swift 
-- 💞️ I’m looking to collaborate on .visual.ideas
-- 📫 you.know = if.you.know()
+- 💞️ I’m looking to collaborate on visual.ideas()
+- 📫 if (youKnow) else youknow()
 
 <!---
 DanielGabler/DanielGabler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
